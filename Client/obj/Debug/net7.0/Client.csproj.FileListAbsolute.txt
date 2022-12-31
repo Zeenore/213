@@ -1,0 +1,15 @@
+F:\bootcamp\Client\bin\Debug\net7.0\Client.exe
+F:\bootcamp\Client\bin\Debug\net7.0\Client.deps.json
+F:\bootcamp\Client\bin\Debug\net7.0\Client.runtimeconfig.json
+F:\bootcamp\Client\bin\Debug\net7.0\Client.dll
+F:\bootcamp\Client\bin\Debug\net7.0\Client.pdb
+F:\bootcamp\Client\obj\Debug\net7.0\Client.csproj.AssemblyReference.cache
+F:\bootcamp\Client\obj\Debug\net7.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+F:\bootcamp\Client\obj\Debug\net7.0\Client.AssemblyInfoInputs.cache
+F:\bootcamp\Client\obj\Debug\net7.0\Client.AssemblyInfo.cs
+F:\bootcamp\Client\obj\Debug\net7.0\Client.csproj.CoreCompileInputs.cache
+F:\bootcamp\Client\obj\Debug\net7.0\Client.dll
+F:\bootcamp\Client\obj\Debug\net7.0\refint\Client.dll
+F:\bootcamp\Client\obj\Debug\net7.0\Client.pdb
+F:\bootcamp\Client\obj\Debug\net7.0\Client.genruntimeconfig.cache
+F:\bootcamp\Client\obj\Debug\net7.0\ref\Client.dll
